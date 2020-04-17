@@ -11,13 +11,25 @@
 		"preferredVictoryType": "Cultural",
 		"startIntroPart1": "TBA",
 		"startIntroPart2": "TBA",
+		
 		"declaringWar": "I hate to do this, but... You leave me no choice.",
 		"attacked": "If I have to protect my people, then I WILL fight back.",
 		"defeated": "Don't cry for me, Argentina... I'll never leave you...",
 		"introduction": "Nice to meet you! I am Eva Perón, helper of the people of Argentina. I hope we can have peace.",
+		
 		"neutralHello": "Hello there!",
+		"neutralLetsHearIt":["Go on.","I see.","Continue."],
+		"neutralNo":["This will not benefit us.","This deal is not fair to us.","No."],
+		"neutralYes":["Yes!","Agreed.","This will be beneficial to both of us, my friend."],
+		
 		"hateHello": "Get away.",
-		"tradeRequest": "Do you need anything?",
+		"hateLetsHearIt":["Hmmm.","Go on."],
+		"hateNo":["No!","Absolutely not!","No way!"],
+		"hateYes":["Sure.","Agreed.","I accept it."],
+		
+		"afterPeace":"I hope Agrentina will benefit from this deal.",
+		"tradeRequest":"Do you need anything?",
+		
 		"outerColor": [
 			224,
 			225,
@@ -28,12 +40,40 @@
 			255,
 			255
 		],
+		
+		"uniqueName":"Pride Of The People",
+		"unique":"ANCIEN_REGIME",
+		
 		"cities": [
 			"Buenos Aires",
 			"Córdoba",
 			"Mendoza",
 			"Rosario",
-			"La Plata"
+			"La Plata",
+			"Tucumán",
+			"Mar del Plata",
+			"Salta",
+			"Santa Fe",
+			"San Juan",
+			"Resistencia",
+			"Santiago del Estero",
+			"Corrientes",
+			"Neuquén",
+			"Posadas",
+			"San Salvador de Jujuy",
+			"Bahía Blanca",
+			"Paraná",
+			"Formosa",
+			"San Fernando del Valle de Catamarca",
+			"San Luis",
+			"La Rioja",
+			"Comodoro Rivadavia",
+			"Río Cuarto",
+			"Puerto Santa Cruz",
+			"Usuaia",
+			"Viedma",
+			"Necochea"
+			
 		]
 	}
 ]
