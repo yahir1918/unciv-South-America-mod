@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Tanguería",
+		"replaces": "Opera House",
+		"uniqueTo": "Argentina",
+		"cost": 200,
+		"culture": 5,
+		"specialistSlots": {"culture": 2},
+		"maintenance": 1,
+		"hurryCostModifier": 25
+	}
+]
