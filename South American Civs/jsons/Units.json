@@ -4,7 +4,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Argentina",
 		"replaces": "Cavalry",
-		"movement": 2,
+		"movement": 4,
 		"strength": 34,
 		"cost": 200,
 		"hurryCostModifier": 20,
