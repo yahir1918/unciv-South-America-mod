@@ -6,17 +6,17 @@
 		"replaces": "Calvary",
 		"movement": 2,
 		"strength": 34,
-		"cost": 225,
+		"cost": 200,
 		"requiredTech": "Military Science",
+		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"obsoleteTech": "Combustion",
 		"uniques": [
+			"Can move after attacking",
 			"Can build improvements on tiles",
 			"No defensive terrain bonus",
 			"Penalty vs City 33%"
 		],
 		"hurryCostModifier": 20,
-		"attackSound": "horse",
-		"requiredResource": "Horses"
+		"attackSound": "horse"
 	}
 ]
