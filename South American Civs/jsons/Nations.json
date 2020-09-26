@@ -74,3 +74,79 @@
 		]
 	}
 ]
+[
+	{
+		"name": "Gran Colombia",
+		"leaderName": "Simón Bolivar",
+		"adjective": [
+			"Colombian"
+		],
+		"startBias": [
+			"Jungle"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "TBA",
+		"startIntroPart2": "TBA",
+		
+		"declaringWar": "I'm tired of your existence, I will destroy you.",
+		"attacked": "you've made the mistake of your life, I'm gonna to DESTROY you.",
+		"defeated": "You have proven that you are better than me, congratulations",
+		"introduction": "It's a pleasure to meet you! I'm Simon Bolivar from Gran Colombia, peace to you.",
+		
+		"neutralHello": "Nice to see you again!",
+		"neutralLetsHearIt":["Hmm...","go on.","I see."],
+		"neutralNo":["No.","We are not convinced.","We say no."],
+		"neutralYes":["Sure!","It's a deal.","This is a good deal!."],
+		
+		"hateHello": "Get out of here!.",
+		"hateLetsHearIt":["Hmmm...","Go on."],
+		"hateNo":["Of course NOT!","Never!","No way!"],
+		"hateYes":["Okay.","Fine.","I accept it."],
+		
+		"afterPeace":"I hope we both will benefit from this deal.",
+		"tradeRequest":"What do you need?",
+		
+		"outerColor": [
+			229,
+			231,
+			9
+		],
+		"innerColor": [
+			227,
+			32,
+			16
+		],
+		
+		"cities": [
+			"Bogotá",
+			"Caracas",
+			"Quito",
+			"Panamá",
+			"Medellín",
+			"Cali",
+			"Guayaquíl",
+			"Maracaibo",
+			"Portobelo",
+			"Santa Marta",
+			"Bucaramanga",
+			"Cumaná",
+			"Cartagena",
+			"Tunja",
+			"Mompox",
+			"Pamplona",
+			"Popayán",
+			"Puerto Cabello",
+			"Cúcuta",
+			"Cuenca",
+			"Veraguas",
+			"Neiva",
+			"Casanare",
+			"Barinas",
+			"Trujillo",
+			"Barcelona",
+			"Cumaná",
+			"Margarita"
+			
+		]
+	}
+]
